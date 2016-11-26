@@ -1,0 +1,34 @@
+html, body {
+margin: 0;
+padding: 0;
+}
+#globalNav {
+margain: 0;
+padding: 0;
+text-align: center;
+background-color: grey;
+opacity: .5;
+padding-top: 0px;
+padding-bottom: 0px;
+}
+#globalNav li {
+display: inline-block;
+}
+#globalNav li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-family: 'Lato-Light', sans-serif;
+}
+#globalNav ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: 17191A;
+}
+#globalNav li a:hover {
+background-color: #ebebee;
+color: black;
